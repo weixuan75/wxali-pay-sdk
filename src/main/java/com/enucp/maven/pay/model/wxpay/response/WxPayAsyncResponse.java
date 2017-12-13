@@ -6,7 +6,7 @@ import org.simpleframework.xml.Root;
 
 /**
  * 异步返回参数
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 20:55
  */
 @Data

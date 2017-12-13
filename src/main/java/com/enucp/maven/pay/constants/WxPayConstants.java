@@ -2,7 +2,7 @@ package com.enucp.maven.pay.constants;
 
 /**
  * 微信常量
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 15:57
  */
 public interface WxPayConstants {

@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.security.KeyStore;
 
 /**
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 13:58
  */
 @Data
@@ -49,7 +49,7 @@ public class WxPayH5Config extends PayConfig {
 
     /**
      * 初始化证书
-     * @return
+     * @return SSLContext 初始化证书
      */
     public SSLContext initSSLContext() {
         FileInputStream inputStream = null;

@@ -13,8 +13,6 @@ import java.util.Objects;
 
 /**
  * 支付宝配置信息(非即时到账接口)
- * <p>
- * 文档地址: https://openhome.alipay.com/developmentDocument.htm
  */
 public class AlipayConfig extends PayConfig {
 

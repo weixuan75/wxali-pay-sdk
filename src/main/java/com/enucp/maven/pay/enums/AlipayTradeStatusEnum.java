@@ -3,7 +3,7 @@ package com.enucp.maven.pay.enums;
 /**
  * 支付宝交易状态枚举.
  * @version 1.0 2017/2/27
- * @auther <a href="mailto:lly835@163.com">廖师兄</a>
+ * @auther <a href="mailto:weixuan75@163.com">weixuan</a>
  * @since 1.0
  */
 public enum AlipayTradeStatusEnum {

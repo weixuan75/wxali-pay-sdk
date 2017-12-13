@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/wxali-pay-sdk.iml" filepath="$PROJECT_DIR$/wxali-pay-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxalipaysdk.iml" filepath="$PROJECT_DIR$/wxalipaysdk.iml" />
     </modules>
   </component>
 </project>

@@ -14,8 +14,6 @@ import java.util.Objects;
 
 /**
  * 支付宝即时到账支付配置信息
- * <p>
- * 文档地址: https://doc.open.alipay.com/docs/doc.htm?spm=a219a.7386797.0.0.7eQWOp&treeId=62&articleId=103566&docType=1
  */
 public class AliDirectPayConfig extends PayConfig {
 

@@ -5,7 +5,7 @@ import lombok.Data;
 
 /**
  * 退款请求参数
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 01:09
  */
 @XStreamAlias("xml")

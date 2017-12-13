@@ -6,7 +6,7 @@ import org.simpleframework.xml.Root;
 
 /**
  * 微信退款返回参数
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 13:33
  */
 @Data

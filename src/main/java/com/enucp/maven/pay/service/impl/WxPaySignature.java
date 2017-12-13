@@ -8,7 +8,7 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 
 /**
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 14:42
  */
 public class WxPaySignature {

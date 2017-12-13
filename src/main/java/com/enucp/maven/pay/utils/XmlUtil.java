@@ -12,7 +12,7 @@ import org.simpleframework.xml.core.Persister;
 import java.io.Writer;
 
 /**
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 15:30
  */
 public class XmlUtil {

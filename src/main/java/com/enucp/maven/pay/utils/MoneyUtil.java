@@ -3,7 +3,7 @@ package com.enucp.maven.pay.utils;
 import java.math.BigDecimal;
 
 /**
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 13:53
  */
 public class MoneyUtil {

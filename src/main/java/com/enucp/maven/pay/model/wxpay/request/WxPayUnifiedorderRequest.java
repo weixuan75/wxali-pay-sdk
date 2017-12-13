@@ -4,7 +4,7 @@ import com.thoughtworks.xstream.annotations.XStreamAlias;
 import lombok.Data;
 
 /**
- * Created by 廖师兄
+ * Created by weixuan
  * 2017-07-02 13:42
  */
 @XStreamAlias("xml")
