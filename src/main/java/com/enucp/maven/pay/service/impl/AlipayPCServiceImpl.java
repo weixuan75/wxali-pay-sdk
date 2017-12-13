@@ -1,4 +1,4 @@
-//package com.lly835.bestpay.service.impl;
+package com.enucp.maven.pay.service.impl;//package com.lly835.bestpay.service.impl;
 //
 //import AliDirectPayConfig;
 //import SignType;

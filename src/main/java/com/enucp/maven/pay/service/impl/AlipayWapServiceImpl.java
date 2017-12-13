@@ -3,7 +3,6 @@ package com.enucp.maven.pay.service.impl;
 import com.enucp.maven.pay.config.AlipayConfig;
 import com.enucp.maven.pay.config.SignType;
 import com.enucp.maven.pay.model.*;
-import com.lly835.bestpay.model.*;
 import com.enucp.maven.pay.service.BestPayService;
 import com.enucp.maven.pay.utils.JsonUtil;
 import org.apache.commons.lang3.StringUtils;
